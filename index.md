@@ -4,7 +4,7 @@
 
 This is my first markdown document in github. I'm excited to continue to use github and get better at it.
 
-![Flag of the United States of America](https://www.gettyimages.com/photos/american-flag)
+![Bald Eagle Mascot](https://img.freepik.com/free-vector/cute-eagle-bird-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector_138676-7040.jpg)
 
 ``` C++
 #include <iostream>
@@ -17,5 +17,6 @@ int main()
   return 0;
 }
 ```
+
 
 
