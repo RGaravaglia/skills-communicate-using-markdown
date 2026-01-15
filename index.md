@@ -18,5 +18,15 @@ int main()
 }
 ```
 
+- [x] Get Started
+- [x] Create Repo
+- [x] Create Branch
+- [x] Use Markdown
+- [x] Add Headings, Image, Code, and Task List
+- [ ] Finishing Markdown section
+- [ ] GitHub Pages
+- [ ] Finish and Sumbit
+
+
 
 
